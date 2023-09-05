@@ -9,7 +9,7 @@ It is always a good idea to start with the flattest components, which in this pr
 The LEDs are the next tallest components, and require slighly more care than the resistors to install. Ensure the short leg of the LED goes to the square pad, putting it the other way around will not work. The legs can be bent to hold it in place. Once soldered in place, cut off extra leg length with sidecutters. For future reference, the square pad is typically for Ground, and the round pad for Power. The short leg of the LED is always for Ground, while the long leg is for Power. 
 ## Step 4: Insert and Solder the Button
 The button has no polarity, and can go in either way. It should grab onto the PCB, making soldering it in place a breeze. Once soldered, and excess leg can be removed if desired. 
-## Step 5: Solder the Arduino into Place.
-The component which is tallest and also requires the most work is the Arduino itself. All the legs, even those not used, should be soldered in place. Make sure the Arduino is orrientated the correct way, so that the USB port lines up with the white box on the silskcreen (the white lines in the PCB). It is recommended to start with soldering two opposite corners to ensure the Arduino doesn't move as it is being soldered. Once all the legs are soldered, use sidecutters to remove excess leg length. 
+## Step 5: Solder the Barrel Jack into Place.
+The component which is tallest is the barrel jack, which is used to power the board. It should only be able to go one way, and the pads are nice and large due to the wide legs. 
 ## Step 6: Test!
 Plug the PCB into power and ensure that the button and the LEDs are all working as intended. 
