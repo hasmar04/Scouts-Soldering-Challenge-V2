@@ -16,10 +16,10 @@ For more information and/or assistance with implementing this challenge in your 
 - 1x Green LED
 - 1x Yellow LED
 - 1x Orange LED
-- 5x 330 ohm resistor
+- 5x 51 ohm resistor
 - 1x 6x6mm push button
-- 1x Barrel Jack (5V)
-- 1x 5V Barrel Power Supply
+- 1x Buzzer
+- 1x Battery Holder
 
 More information can be found in the [Procurement Guide](/docs/Procurement%20Guide.md)
 
